@@ -1,0 +1,20 @@
+body {
+  color: black;
+  background-color: black;
+}
+
+section {
+  color: black;
+}
+
+.img1 {
+  width: 100%;
+}
+
+.img2 {
+  width: 120%;
+}
+
+.img3 {
+  width: 131%;
+}
